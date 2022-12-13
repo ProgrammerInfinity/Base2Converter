@@ -1,7 +1,10 @@
 # BinaryConverter
+
 #This is for stings only
 
 message = str(input("Input any word and it will be converted to binary: "))
+
+
 binary = " ".join(format(ord(c), "b") for c in message)
 
 binary_text = binary
