@@ -1,4 +1,4 @@
-# BinaryConverter
+# Binary Converter
 
 #This is for stings only
 
